@@ -10,7 +10,7 @@
  * Timer A1 is used to generate periodic interrupts at a rate of 10 Hz, while Timer A2
  * is used to generate PWM signals to drive two servos.
  *
- * @author Aaron Nanas
+ * @author Michael Granberry, Abdullah Hendy, Aaron Nanas
  *
  */
 
